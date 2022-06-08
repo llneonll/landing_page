@@ -1,9 +1,12 @@
 {
-  "compilerOptions": {
+  "vueCompilerOptions": {
     "target": "es5",
     "module": "esnext",
     "baseUrl": "./",
     "moduleResolution": "node",
+    "experimentalDisableTemplateSupport": true,
+
+  
     "paths": {
       "@/*": [
         "src/*"
@@ -16,4 +19,6 @@
       "scripthost"
     ]
   }
+   
+    
 }

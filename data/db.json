@@ -1,0 +1,11 @@
+{
+    "jobs": [
+      { "title": "Frontend Web Developer", "id": 1, "details": "lorem" },
+      { "title": "Full Stack Web Developer", "id": 2, "details": "lorem" },
+      { "title": "Strategist","id":3, "details":"lorem"},
+      { "title": "Media Manager","id":4, "details":"lorem"}
+
+      
+      
+    ]
+  }
